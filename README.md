@@ -5,6 +5,10 @@ Fabric defect detection is a necessary and essential step of quality control in 
 
 <br/>
 
+<h4>Youtube Link : https://youtu.be/Vw78gLfCQ44
+ 
+ <br/>
+
 ## 1) Defect Detection
 
 Technology/Framework Used : Numpy, Pandas, Matplotlib, CV2, Skimage, Scipy
