@@ -5,7 +5,7 @@ Fabric defect detection is a necessary and essential step of quality control in 
 1. Go to terminal.
 2. Create a directory tex-detector using ```mkdir tex-detecto```
 3. cd tex-detecto
-4. clone the repository using the command
+4. clone the repository using the command  ```https://github.com/Rajvardhan7/Textile-Detection.git```
 5. Install all the required modules using command ```pip install -r requirements.txt```
 6. Make sure streamlit is installed by using the command ```streamlit hello```
 7. for running the app use the command ```streamlit run app.py```
