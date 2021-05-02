@@ -12,7 +12,7 @@ Technology/Framework Used : Numpy, Pandas, Matplotlib, CV2, Skimage, Scipy
 <br/>
 
 <h4>Hole Detection - circular boundary using Hough Transformation:</h4>
-The Hough transform is a feature extraction technique used in image analysis, computer vision, and digital image processing. The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure. By optimizing its parameters, we were able to get clear accurate bounding circle around the holes.
+The Hough transform is a feature extraction technique used in image analysis, computer vision, and digital image processing. The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure. The algorithm converts RGB image to Grayscale for improved detection. By optimizing its parameters, we were able to get clear accurate bounding circle around the holes.
 <br/>
 <p align="left">
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/download%20(1).jpeg" height="210px"/>
