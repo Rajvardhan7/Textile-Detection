@@ -8,6 +8,16 @@ Fabric defect detection is a necessary and essential step of quality control in 
  <br/>
  <br/>
 
+
+## Instructions For Running WebApp on local server:
+1. Go to terminal. 
+2. Create a directory tex-detection using ```mkdir tex-detection```
+3. cd tex-detection
+4. clone the repository using the command ``` https://github.com/Rajvardhan7/Textile-Detection.git```
+5. Install all the requirements using command ``` pip install -r requirements.txt```
+6. Run the commmand ```streamlit run app.py```
+YOUR APP IS READY!!
+
 ## 1) Defect Detection
 
 Technology/Framework Used : Numpy, Pandas, Matplotlib, CV2, Skimage, Scipy
