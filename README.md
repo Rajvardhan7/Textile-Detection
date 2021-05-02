@@ -50,7 +50,8 @@ Able to get good accuracy(about 90%) in few 50 epochs only.
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/5894d40475097a650a885e8e1612a532c2781954/Model.png" height="400px"/>
 </p>
 <br/>
-<p align="center">
+<p align="left">
+<img src = "https://github.com/Rajvardhan7/Textile-Detection/blob/8e9d1a10667f02e4c8f3086524715406572326a8/Thread.png" height="400px"/>
 <img src = "https://github.com/navyasancheti/Textile-Defect-Detection/blob/53b735bc5e0486897e64cd49b4a82ef74a9d84a7/Color_blending.png" height="400px"/>
 </p>
 
