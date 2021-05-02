@@ -33,7 +33,8 @@ The Hough transform is a feature extraction technique used in image analysis, co
 
 ---
 
-<h4>GMasking or Image Segmentation</h4>
+<h4>Masking or Image Segmentation</h4>
+The defect is clearly visible after masking the image.
  <br/>
 <p align="left">
  Normal Fabric Image
